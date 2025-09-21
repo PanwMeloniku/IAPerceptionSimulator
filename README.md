@@ -24,4 +24,4 @@ Future changes:
 * Equipment class will be created. It will allow AI to store Items.
 * AI will be able to detect nearby items and make simple interactions with them (like add to equipment)
 
-* If you only need plugin for your project them you can download it [here](https://github.com/PanwMeloniku/Dynamically-Modified-AIPerception).
+If you only need plugin for your project them you can download it [here](https://github.com/PanwMeloniku/Dynamically-Modified-AIPerception).
